@@ -22,7 +22,7 @@ title: "TEST"
 email: "test@test.com"
 description: "123"
 
-# Build settings
+# Build settings1
 theme: just-the-docs
 
 # Enable or disable the site search
